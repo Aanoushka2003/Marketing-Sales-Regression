@@ -72,9 +72,3 @@ marketing-sales-regression/
 └── README.md
 ```
 
-## How to Run
-
-1. Clone or download this repository.
-2. Make sure the CSV dataset is in the same folder as the notebook.
-3. Open `marketing_sales_linear_regression.ipynb` in Jupyter Notebook or JupyterLab.
-4. Run the cells from top to bottom.
